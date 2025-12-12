@@ -1,7 +1,7 @@
-let username = 'Marvel';
+let username = "Marvel";
 
-if(username){
-    console.log(`สวัสดี, ${username}! 👋`)
+if (username) {
+  console.log(`สวัสดี, ${username}! 👋`);
 } else {
-    console.log('โปรดระบุชื่อผู้ใช้งาน ❌')
+  console.log("โปรดระบุชื่อผู้ใช้งาน ❌");
 }
